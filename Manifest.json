@@ -1,0 +1,9 @@
+{
+    "manifest version": 3,
+    "version": "1.0",
+    "name": "Leads Tracker",
+    "action":{
+        "default_popup":"index.php",
+        "default_icon":"leadsTrackerLogo.png"
+    }
+}
