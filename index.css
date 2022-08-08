@@ -5,14 +5,23 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     min-width: 500px;
 }
-
+h1{
+    color:rgb(25, 171, 220);
+}
 #input-el{
  border-color: #5f9341;
  padding: 10px;
  height: 30px;
- width:99%;
+ width: 100%;
 }
 #input-btn{
+    background-color: rgb(25, 171, 220);
+    color: white;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+}
+#clear-btn{
     background-color: #5f9341;
     color: white;
     padding: 10px;
