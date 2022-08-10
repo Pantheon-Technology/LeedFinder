@@ -49,8 +49,8 @@ function renderLeads(leads){
 
 clearBtn.addEventListener("click", function(){
     localStorage.clear("leads");
+    myLeads = [];
     saved.innerHTML = localStorage.getItem("leads");
-    let myLeads = [];
 })
 saveTabBtn.addEventListener("click", function(){
 
