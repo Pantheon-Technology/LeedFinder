@@ -28,6 +28,13 @@ h1{
     border: none;
     font-weight: bold;
 }
+#saveTab-btn{
+    background-color: #decd37;
+    color: white;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+}
 ul{
     padding-left:0;
 }
